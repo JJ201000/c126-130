@@ -1,0 +1,40 @@
+.heading{
+    font-size:23px ;
+    width:100%;
+    margin:0px;
+}
+.note{
+    font-size: 15px;
+    color: khaki;
+}
+body{
+    background-size: cover;
+}
+.div_speed
+{
+    float:left;
+}
+.div_speed_img , .div_volumen_img
+{
+    width:250px;
+    border-radius: 100px;
+}
+#speed , #volumen
+{
+    font-size:23px;
+    margin:15px;
+}
+.div_volumen
+{
+    float:right;
+}
+.play_button
+{
+    width: 130px;
+    font-size: 25px;
+}
+canvas
+{
+    border:5px solid honeydew;
+    border-radius: 20px;
+}
